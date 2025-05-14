@@ -41,7 +41,7 @@ Then open the local URL provided in your terminal in a web browser.
 ```
 diabetes-prediction-streamlit/
 ├── diabetes.csv               # Dataset used for training
-├── app.py                     # Main Streamlit app
+├── Diabetes.py                     # Main Streamlit app
 ├── README.md                  # Project overview
 └── requirements.txt           # Python dependencies
 ```
